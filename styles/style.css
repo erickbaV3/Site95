@@ -17,9 +17,19 @@ html {
     font-size: 20px;
 }
 
+.right-box {
+    width: 10%;
+    border: 5px black solid;
+    background-color: gray;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 1%;
+}
+
 #title {
     text-align: center;
     color: white;
     font-size: 40px;
     background-color: black;
+    width: auto;	
 }
