@@ -7,6 +7,9 @@ html {
     justify-content: center;
 }
 
+#text {
+    font-size: clamp(15px, 17px, 30px);
+}
 
 .center {
     width: clamp(300px, 30%, 30vw);
