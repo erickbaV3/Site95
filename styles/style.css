@@ -31,11 +31,15 @@ html {
 }
 
 #welcome {
-    font-size: 2hw;
+    margin-top: 1.2vw;
+    font-size: clamp(25px, 2vw, 3vw);
+    background: url(sparkle2.gif) repeat;
+    background-position: center;
+
 }
 
 #title {
     text-align: center;
     font-size: 35px;
-    width: auto;	
+    width: auto;
 }
